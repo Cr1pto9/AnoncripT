@@ -16,3 +16,5 @@ chmod +x aNoni.sh
 bash aNoni.sh
 
 by:Cr1pto9 espero os guste...
+
+Sí os da un error favor de reportarlas y así ayudar a su mejoría..
